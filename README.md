@@ -1,6 +1,7 @@
 <html>
     <body>
         <header> 
+            <link
           <img src="https://fortnitefun.ru/wp-content/uploads/2018/12/Fishstick.jpg"/>
          <p> Больше информации про игру </p>
         </header>
